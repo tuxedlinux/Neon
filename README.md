@@ -1,0 +1,2 @@
+# Neon
+A discord bot.
