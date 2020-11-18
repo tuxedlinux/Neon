@@ -242,4 +242,4 @@ https://discord.gg/MBgjh7VPNX
 
 # Bot token
 
-client.run('Nzc4NTc2MDk4MTk1MDEzNjYy.X7T_fw.zFD-Hk0EJ5USNEtB7O-TSrkcVVU')
+client.run(os.environ['DISCORD_TOKEN'])
